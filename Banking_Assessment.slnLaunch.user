@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AccountServiceAPI\\AccountServiceAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuditMicroService.API\\AuditMicroService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Transaction.API\\Transaction.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationAPI\\AuthenticationAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
